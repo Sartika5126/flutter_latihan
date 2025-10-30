@@ -97,22 +97,3 @@ class _TextBoxPageState extends State<TextBoxPage> {
     );
   }
 }
-
-
-// appBar: AppBar(title: Text("Text box flutter")),
-//       body: Center(child: Padding(
-//         padding: const EdgeInsets.all(8.0),
-//         child: TextField(
-//           maxLength: 50,
-//           obscureText: true,
-//           decoration: InputDecoration(
-//             prefixIcon: Icon(Icons.person),
-//             suffixText: "S.T",
-//             labelText: "Nama Lengkap",
-//             hintText: "Masukkan nama lengkap",
-//             border: OutlineInputBorder(
-//               borderRadius: BorderRadius.all(Radius.circular(5))
-//             )
-//           ),
-//         ),
-//       )),
